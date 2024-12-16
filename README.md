@@ -1,0 +1,3 @@
+this repo is for the kaggle comp - https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions
+
+first time trying survivor analysis...
