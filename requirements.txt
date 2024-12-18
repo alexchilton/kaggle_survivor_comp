@@ -7,3 +7,5 @@ seaborn
 scikit-survival
 tqdm
 xgboost
+ydata_profiling
+catboost
